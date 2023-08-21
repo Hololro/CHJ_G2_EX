@@ -1,0 +1,49 @@
+/*!
+ *  Font Awesome 4.6.3 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+ @font-face{
+    font-family:'FontAwesome';
+    src:url('../fonts/fontawesome-webfont.woff2?v=4.6.3') format('woff2')
+ }
+ @font-face {
+    font-family: 'RampartOne';
+    src: url('../fonts/RampartOne-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Alibaba';
+    src: url('../fonts/AlibabaSansJP-Medium.otf') format('opentype');
+    src: url('../fonts/AlibabaSansJP-Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Chogokuboso';
+    src: url('../fonts/chogokubosogothic_5.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'HanaMinA';
+    src: url('../fonts/HanaMinA.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'KiwiMaru';
+    src: url('../fonts/KiwiMaru-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'YujiBoku';
+    src: url('../fonts/YujiBoku-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'ZenKurenaido';
+    src: url('../fonts/ZenKurenaido-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: '인천교육자람';
+    src: url('../fonts/인천교육자람.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'KleeOne';
+    src: url('../fonts/KleeOne-Regular.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Pretendard';
+    src: url('../fonts/PretendardJP-Medium.otf') format('opentype');
+}
